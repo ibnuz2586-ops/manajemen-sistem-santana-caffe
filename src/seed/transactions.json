@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id": "trx-001",
+    "invoiceNumber": "INV-20261117-001",
+    "customerName": "Budi Santoso",
+    "orderType": "Dine-In",
+    "tableNumber": "04",
+    "paymentMethod": "QRIS",
+    "cashierName": "Nadia Putri",
+    "items": [
+      { "productId": "prd-001", "productName": "Santana Signature Aren Latte", "qty": 2, "unitPrice": 24000, "subtotal": 48000 }
+    ],
+    "totalAmount": 48000,
+    "paidAmount": 50000,
+    "changeAmount": 2000,
+    "orderStatus": "Selesai",
+    "createdAt": "2026-11-17T10:15:00.000Z"
+  },
+  {
+    "id": "trx-002",
+    "invoiceNumber": "INV-20261117-002",
+    "customerName": "Siti Rahma",
+    "orderType": "Takeaway",
+    "tableNumber": "-",
+    "paymentMethod": "Tunai",
+    "cashierName": "Nadia Putri",
+    "items": [
+      { "productId": "prd-004", "productName": "Kyoto Matcha Latte", "qty": 1, "unitPrice": 25000, "subtotal": 25000 },
+      { "productId": "prd-006", "productName": "Butter Croissant", "qty": 1, "unitPrice": 18000, "subtotal": 18000 }
+    ],
+    "totalAmount": 43000,
+    "paidAmount": 50000,
+    "changeAmount": 7000,
+    "orderStatus": "Diproses",
+    "createdAt": "2026-11-17T11:20:00.000Z"
+  }
+]

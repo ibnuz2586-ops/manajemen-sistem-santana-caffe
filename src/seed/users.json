@@ -1,0 +1,4 @@
+﻿[
+  { "id": "usr-001", "name": "Hendra Wijaya", "username": "pemilik", "password": "123", "role": "Pemilik" },
+  { "id": "usr-002", "name": "Nadia Putri", "username": "kasir1", "password": "123", "role": "Kasir" }
+]

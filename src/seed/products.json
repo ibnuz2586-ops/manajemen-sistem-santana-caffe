@@ -1,0 +1,10 @@
+﻿[
+  { "id": "prd-001", "code": "M-001", "name": "Santana Signature Aren Latte", "category": "Coffee", "price": 24000, "stock": 40, "isAvailable": true },
+  { "id": "prd-002", "code": "M-002", "name": "Caramel Macchiato Iced", "category": "Coffee", "price": 26000, "stock": 30, "isAvailable": true },
+  { "id": "prd-003", "code": "M-003", "name": "Americano Classic", "category": "Coffee", "price": 18000, "stock": 35, "isAvailable": true },
+  { "id": "prd-004", "code": "M-004", "name": "Kyoto Matcha Latte", "category": "Non-Coffee", "price": 25000, "stock": 25, "isAvailable": true },
+  { "id": "prd-005", "code": "M-005", "name": "Lychee Berry Tea", "category": "Non-Coffee", "price": 20000, "stock": 20, "isAvailable": true },
+  { "id": "prd-006", "code": "M-006", "name": "Butter Croissant", "category": "Pastry", "price": 18000, "stock": 15, "isAvailable": true },
+  { "id": "prd-007", "code": "M-007", "name": "Nasi Goreng Spesial Santana", "category": "Main Course", "price": 32000, "stock": 20, "isAvailable": true },
+  { "id": "prd-008", "code": "M-008", "name": "Chicken Katsu Rice Bowl", "category": "Main Course", "price": 30000, "stock": 18, "isAvailable": true }
+]
